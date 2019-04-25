@@ -64,7 +64,6 @@ class Weather(Frame):
                         'rain': ImageTk.PhotoImage(Image.open('images\condition\w_rain.ico')),
                         'clouds': ImageTk.PhotoImage(Image.open('images\condition\w_clouds.ico')),
                         'thunderstorm': ImageTk.PhotoImage(Image.open('images\condition\w_thunder.ico')),
-                        #'drizzle': ImageTk.PhotoImage(Image.open('images\w_drizzle.ico')),
                         'mist': ImageTk.PhotoImage(Image.open('images\condition\w_atmosphere.ico')),
                         'fog': ImageTk.PhotoImage(Image.open('images\condition\w_atmosphere.ico')),
                         'haze': ImageTk.PhotoImage(Image.open('images\condition\w_atmosphere.ico'))}
